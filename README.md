@@ -14,3 +14,6 @@ Skills used: Pivot, Temp Tables, Joins, Windows Functions, Aggregate Functions, 
 
 Used programs:
 Microsft SQL Server Management Studio
+
+Used to create Cohort Retention dashboard in Tableau: 
+https://github.com/dominikzyla00/Tableau
