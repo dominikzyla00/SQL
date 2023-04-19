@@ -1,6 +1,6 @@
-# SQL
+# SALES ANALYSIS
 
-SALES ANALYSIS
+
 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
