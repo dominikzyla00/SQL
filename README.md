@@ -9,7 +9,7 @@ Microsft SQL Server Management Studio
 
 
 # COHORT RETENTION
-Cleaning, analyzing, creating the table needed for visualization
+**Cleaning, analyzing, creating the table needed for visualization**
 
 
 **Skills used:** 
