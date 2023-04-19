@@ -141,6 +141,7 @@ SELECT *, rfm_monetary+rfm_frequency+rfm_recency as rfm_sum,
 into #rfm -- Lets`s create temp table so we don't have to run this whole query everytime
 FROM rfm_rank 
 
+-- Let`s group customers and finish our analysis
 select customer_name,
 rfm_recency,
 rfm_frequency,
