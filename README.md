@@ -1,9 +1,10 @@
 # SALES ANALYSIS
 
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
+**Skills used:** 
+Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
 
-Used programs:
+**Used programs:**
 Microsft SQL Server Management Studio
 
 
@@ -11,12 +12,13 @@ Microsft SQL Server Management Studio
 Cleaning, analyzing, creating the table needed for visualization
 
 
-Skills used: Pivot, Temp Tables, Joins, Windows Functions, Aggregate Functions, CTE's
+**Skills used:** 
+Pivot, Temp Tables, Joins, Windows Functions, Aggregate Functions, CTE's
 
-Used programs:
+**Used programs:**
 Microsft SQL Server Management Studio
 
-Used to create Cohort Retention dashboard in Tableau: 
+**Used to create Cohort Retention dashboard in Tableau: **
 https://public.tableau.com/app/profile/dominik.y.a/viz/CohortRetention_16819199517630/Dashboard1?publish=yes
 
 https://github.com/dominikzyla00/Tableau
