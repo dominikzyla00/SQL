@@ -8,6 +8,10 @@ Pivot, Temp Tables, Joins, Windows Functions, Aggregate Functions, CTE's
 **Used programs:**
 Microsft SQL Server Management Studio
 
+
+Online Retail Stores Data Analyzing. The aim of the project was to perform cohort analysis
+
+
 **Used to create Cohort Retention dashboard in Tableau:**
 https://public.tableau.com/app/profile/dominik.y.a/viz/CohortRetention_16819199517630/Dashboard1?publish=yes
 
